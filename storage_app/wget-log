@@ -1,0 +1,6 @@
+--2021-09-29 22:54:30--  https://us1.locationiq.com/v1/reverse.php?key=pk.60846804b3122e58f24c91674fbeddf0
+Resolving us1.locationiq.com (us1.locationiq.com)... 2606:4700:20::ac43:60e4, 2606:4700:20::6819:e675, 2606:4700:20::6819:e575, ...
+Connecting to us1.locationiq.com (us1.locationiq.com)|2606:4700:20::ac43:60e4|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2021-09-29 22:54:31 ERROR 400: Bad Request.
+
