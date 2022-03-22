@@ -6,11 +6,11 @@ A demo **Rshiny** app demonstrating a _backend_  **MySQL** database hosted on **
 - It gets around the issues of _statelessness_ of RShiny apps, where info doesnt persist between sessions.
 🧏
 
-A demo deployment is hosted on shinyapps.io
+A demo deployment is hosted on [shinyapps.io](https://aarong1.shinyapps.io/storage_app/)
 
 ## Below is an except of the tutorial 
 
-### Start - form entry
+### Start - Form entry
 Explore previous sessions data
 or enter your own
 <p align="center">
@@ -24,5 +24,5 @@ Push to database once happy to save.
 </p>
 
 
-AG
+
 <!--![](storage_app/www/finish_edited.png)
